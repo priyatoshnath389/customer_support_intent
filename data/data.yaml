@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 7
+names: ['basophil', 'eosinophil', 'lymphocyte', 'monocyte', 'neutrophil', 'platelets', 'rbc']
+
+roboflow:
+  workspace: priyatosh
+  project: pcb-dataset-3ng1j
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/priyatosh/pcb-dataset-3ng1j/dataset/1

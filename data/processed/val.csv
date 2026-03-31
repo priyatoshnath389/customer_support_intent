@@ -1,0 +1,792 @@
+text,intent
+how do I speak with customer support?,contact_customer_service
+help me to see at what time I can contact customer support,contact_customer_service
+I'm waiting for a rebate of {{Currency Symbol}}{{Refund Amount}},track_refund
+where to check what shipment options i have,delivery_options
+can ya help me to see what shipment options i can choose,delivery_options
+need help with canceling purchase {{Order Number}},cancel_order
+I am trying to inform of issues with online payment,payment_issue
+wanna see the withdrawalcharge,check_cancellation_fee
+could you help me cancel purchase {{Order Number}}?,cancel_order
+I have a problem with cancelling purchase {{Order Number}},cancel_order
+uhave a free number to call customer support,contact_customer_service
+I need help to see the cancellation charges,check_cancellation_fee
+I have to check the withdrawal penalties,check_cancellation_fee
+where do i edit my delivery address,change_shipping_address
+I need assistance talkig to fucking customer support,contact_customer_service
+I want to get in touch with customer service,contact_customer_service
+can you show me what delivery methods I can choose?,delivery_options
+see my compensation status,track_refund
+where can i inform of problems with online paymeny,payment_issue
+canmcel order {{Order Number}},cancel_order
+see how long refunds take,check_refund_policy
+what do i need to do to check the methods for shipment,delivery_options
+want help to cancel order {{Order Number}},cancel_order
+how can I find information about changing my address?,change_shipping_address
+i need help to see what shipment options i have,delivery_options
+how to notify of a trouble with online payments,payment_issue
+need assistance seeing the termination charge,check_cancellation_fee
+where to check the termination fee,check_cancellation_fee
+I need assistance cancelling purchase {{Order Number}},cancel_order
+I don't know what to do to see the early termination fees,check_cancellation_fee
+can you help me inform of fucking troubles with payments?,payment_issue
+I do not know how to check the status of the reimbursement,track_refund
+help to see at what time I can contact customer service,contact_customer_service
+I need help with canceling purchase {{Order Number}},cancel_order
+where do I see what hours customer assistance available is?,contact_customer_service
+i exepct a restitution of {{Currency Symbol}}{{Refund Amount}},track_refund
+I am waiting for a restitution of {{Currency Symbol}}{{Refund Amount}},track_refund
+i expect a restitution of {{Refund Amount}} dollars,track_refund
+help me seeing at what time I can contact customer support,contact_customer_service
+i dont know what i have to do to update my shipping address,change_shipping_address
+"I don't want this item, cancel order {{Order Number}}",cancel_order
+"I want to report problems with payments, I need assistance",payment_issue
+help me editing my shkpping address,change_shipping_address
+I try to check what shipping methods are available,delivery_options
+"I have to see what delivery options you offer, help me",delivery_options
+can you help me checking the methods for shipment?,delivery_options
+help me cancel purchase {{Order Number}},cancel_order
+I have troubles correcting my address,change_shipping_address
+can i see in which cases can i as for reimbursements,check_refund_policy
+i want assistance notifying off an error with online payment,payment_issue
+help cancelling order {{Order Number}},cancel_order
+can uhelp me informing of a payment issue,payment_issue
+do you have a free phone no to speak with customer service?,contact_customer_service
+help me noitfy of an error with online payments,payment_issue
+assistance with canceling order {{Order Number}},cancel_order
+what is the fee for cancelling the contract?,check_cancellation_fee
+I want help to see the cancellation penalty,check_cancellation_fee
+"I have to speak with customer assistance, how to do it?",contact_customer_service
+help me check what hours I can contact customer service,contact_customer_service
+can you help me seeing the early exit penalties?,check_cancellation_fee
+i cannot afford purchase {{Order Number}},cancel_order
+do you ship  to {{Delivery Country}}?,delivery_options
+"I need to see your damn money back policy, how do I do it?",check_refund_policy
+i cant check my restitution current status,track_refund
+check in what situations can I request to be reimbursed,check_refund_policy
+how could I track my restitution?,track_refund
+I don't know how I can inform of problems with payments,payment_issue
+I want to inform of pamyent issues,payment_issue
+show me in which cases can I request a refund,check_refund_policy
+check in what situations can I ask for reimbursements,check_refund_policy
+i need assistancenotifying of a goddamn issue with payment,payment_issue
+help top speak with customer assistance,contact_customer_service
+what do i need to do to see the early terminaion charges,check_cancellation_fee
+problem with cancelling purchase {{Order Number}},cancel_order
+"I want to inform of a problem with online payments, help me",payment_issue
+need assistance to modify the address,change_shipping_address
+i want help solving a trouble with online payments,payment_issue
+I don't know what to do to see my reimbursement status,track_refund
+I need to report payment issues,payment_issue
+I do not know how to correect the address,change_shipping_address
+I am trying to cancel purchaes {{Order Number}},cancel_order
+I don't know what I have to do to talk to customer service,contact_customer_service
+i expect a reimbursxement of {{Currency Symbol}}{{Refund Amount}},track_refund
+help me to check in what situations acn I request a refund,check_refund_policy
+I want help reporting a payment issue,payment_issue
+i cannot check if there are any news on the compensation,track_refund
+need help checking what hours i can call customer support,contact_customer_service
+need help to see in which situations can I request a refund,check_refund_policy
+I have a trouble trying to modify my shipping address,change_shipping_address
+"I want to speak with customer assistance, can you help me?",contact_customer_service
+need assistance to cancel purchase {{Order Number}},cancel_order
+i need assistance to speak with customer service,contact_customer_service
+do you ship to {{Delivery City}}?,delivery_options
+could yatell me about changing my shipping address,change_shipping_address
+I do not know what to ddo to update the address,change_shipping_address
+need help reporting an error with payments,payment_issue
+i want assistance checking the termination penalties,check_cancellation_fee
+help me cancelling purchase {{Order Number}},cancel_order
+can ya help me to see the early termination fees,check_cancellation_fee
+help me seeing the current status of my reimbursement,track_refund
+I can't pay for purchase {{Order Number}},cancel_order
+I  do not know how I can talk to customer support,contact_customer_service
+I want help to check the current status of the reimbursement,track_refund
+I want help cancelling purchase {{Order Number}},cancel_order
+I am waiting for a reimburswment of {{Currency Symbol}}{{Refund Amount}},track_refund
+"the payment failed, assistance informing of an issue",payment_issue
+where to see at what time I can call customer support?,contact_customer_service
+is it possible to place an order from {{Delivery City}}?,delivery_options
+"I have got to talk with customer assistance, how to do it?",contact_customer_service
+I need help correcting my address,change_shipping_address
+where do I see what methods for delivery are there?,delivery_options
+I want to cancel purchase {{Order Number}},cancel_order
+notify of troubles with online  payments,payment_issue
+d uship to {{Delivery City}},delivery_options
+how could I get in touch with customer support?,contact_customer_service
+I need help with canceling purchase {{Order Number}},cancel_order
+are service charges reimbursable?,check_refund_policy
+can I know if there is anything new on the restitution?,track_refund
+assitsance seeing in which cases can i request a refund,check_refund_policy
+wanna see the options for delivery how to do it,delivery_options
+canceling order {{Order Number}},cancel_order
+where to modify the address,change_shipping_address
+I need support modifying the shipping address,change_shipping_address
+I have to see the early exit penalties,check_cancellation_fee
+I need assistance trying to edit my shipping address,change_shipping_address
+support trying to change my delivefy address,change_shipping_address
+i cannot pay i have to report goddamn payment issues,payment_issue
+need help to see at what time customer service availabl is,contact_customer_service
+I want help to edit my address,change_shipping_address
+assistance to see how log reimbursements take,check_refund_policy
+want help to talk to customer service,contact_customer_service
+can you help me checking the early exit charges?,check_cancellation_fee
+"I have to see what shipping methods you offer, how to do it?",delivery_options
+i want supports trying to update my shippingaddress,change_shipping_address
+I need to check the early termination fee,check_cancellation_fee
+assistance with a delivery address change,change_shipping_address
+I can no longer pay for purchase {{Order Number}},cancel_order
+I have an erroor trying to change the address,change_shipping_address
+where can I see what shipment options I have?,delivery_options
+help seeing if there are any updates on my reimbursement,track_refund
+there is an error trying to update my shipping address,change_shipping_address
+shipping to {{Delivery City}},delivery_options
+there are problems trying to update my shipping address,change_shipping_address
+can you help me checking what shipment methods I have?,delivery_options
+i have to contact customer support,contact_customer_service
+i submitted an wrong address i need help to edit it,change_shipping_address
+I am trying to speak to fucking customer support,contact_customer_service
+help with cancelling purchase {{Order Number}},cancel_order
+can uhelp me cancelling purchazse {{Order Number}},cancel_order
+can uhelp me check my refund current status,track_refund
+I have to check what shipment methods you offer,delivery_options
+need assistance to check ur reimbursement policy,check_refund_policy
+"I need to track my compensation, could I get some help?",track_refund
+can I see what methods for delivery I can choose?,delivery_options
+what do I have to do to see the early exit charge?,check_cancellation_fee
+i have to see ur reimbursement policy i need assistance,check_refund_policy
+I am waiting for a rebate of {{Refund Amount}} dollars,track_refund
+would it be possible to check the early termination charge?,check_cancellation_fee
+i dont know what to do to talk with customer  support,contact_customer_service
+assistance seeing ur money back guarantee,check_refund_policy
+there are problems trying to correct the address,change_shipping_address
+I am trying to update my delivery address,change_shipping_address
+i try to inform of a truble with payment,payment_issue
+could you help me cancelling purchase {{Order Number}}?,cancel_order
+I want support updating the shipping address,change_shipping_address
+I need help reporting a trouble with online payment,payment_issue
+help me seeing your damn refund policy,check_refund_policy
+how could I check the early termination fees?,check_cancellation_fee
+i chose a wrong delivery address,change_shipping_address
+wanna see in which situations can i ask for a refund,check_refund_policy
+I try to report errors with payment,payment_issue
+check in what cases can I ask for refunds,check_refund_policy
+is it possible to notify of an error with payments,payment_issue
+wanna check at what time i can reach customer assistance,contact_customer_service
+can you help me see the termination charge?,check_cancellation_fee
+i do not know hoow i could check ur reimbursement policy,check_refund_policy
+how to see if there is anything wrong with my compensation,track_refund
+I cannot afford order {{Order Number}},cancel_order
+I try to check in what cases can I request to be reimbursed,check_refund_policy
+i have a question about cancelling order {{Order Number}},cancel_order
+can I see the bloody withdrawal penalties?,check_cancellation_fee
+is it plssible to order from {{Delivery Country}}?,delivery_options
+i cannot check ur money back guarantee,check_refund_policy
+I do not know what I need to do to see the early exit charge,check_cancellation_fee
+I do not know how I can see what shipping methods I have,delivery_options
+need to report troubles with online payment,payment_issue
+camceling order {{Order Number}},cancel_order
+help to see in which cases can i request my money back,check_refund_policy
+assistance checking the early exit fee,check_cancellation_fee
+"I want to check the options for shipping, help me",delivery_options
+I don't know how I can see the early exit penalties,check_cancellation_fee
+do ya deliver to {{Delivery City}},delivery_options
+I am waiting for a reimbursement of {{Currency Symbol}}{{Refund Amount}},track_refund
+what hours can I call customer service?,contact_customer_service
+what is ur customer assistance mail,contact_customer_service
+i do not know how to report a trouble with online payments,payment_issue
+could you help me canceling purchase {{Order Number}}?,cancel_order
+assistance checking the early exit charges,check_cancellation_fee
+"I want to see the methods for delivery, how could I do it?",delivery_options
+where do I inform of payment errors?,payment_issue
+need help to check in which cases can i request refunds,check_refund_policy
+where do I check the early termination fees?,check_cancellation_fee
+i want help to see what hours i can reach customer support,contact_customer_service
+how to see the early termination  fees?,check_cancellation_fee
+cn I place an order from {{Delivery City}}?,delivery_options
+I do not know how I can see your reimbursement policy,check_refund_policy
+where do I check what hours I can reach customer service?,contact_customer_service
+help checking at what time I can call customer support,contact_customer_service
+I try to see what hours I can reach customer support,contact_customer_service
+i dont know how i can contact customer assistance,contact_customer_service
+I don't know what to do to inform of errors with payment,payment_issue
+I'm waiting for a  compensation of {{Currency Symbol}}{{Refund Amount}},track_refund
+I need help with cancelling purchase {{Order Number}},cancel_order
+i expect a compensation of {{Refund Amount}} dollars,track_refund
+help checking the early termination penalty,check_cancellation_fee
+I can't afford purchase {{Order Number}},cancel_order
+I want assistance to edit my shipping address,change_shipping_address
+show me what hours i can call customer assistance,contact_customer_service
+help me checking what delivery methods I have,delivery_options
+I am trying to call customer support,contact_customer_service
+i cant modify my delivery address,change_shipping_address
+see if there are any news on the compensation,track_refund
+I have problems with canceling purchase {{Order Number}},cancel_order
+where do I check what hours I can reach customer support?,contact_customer_service
+"I need to change the address, will you help me?",change_shipping_address
+can I check in which situations can I request a refund?,check_refund_policy
+I want assistance to cancel order {{Order Number}},cancel_order
+delieries to {{Delivery City}},delivery_options
+i do not know how i can see the current status of the rebate,track_refund
+I don't know how I can get in touch with customer support,contact_customer_service
+I have got to know if there are any updates on my rebate,track_refund
+need to check in which cases can i request an reimbursement,check_refund_policy
+where do i notify of a problem with online payments,payment_issue
+I need help trying to edit the shipping address,change_shipping_address
+is it possibleto place an order from {{Delivery City}},delivery_options
+"I cannot pay, help me to inform of a problem with payments",payment_issue
+I want help to check what options for delivery you offer,delivery_options
+want help to see at what time i can call customer support,contact_customer_service
+I don't know what I have to do to see the early exit fee,check_cancellation_fee
+help me see at what time i can call customer support,contact_customer_service
+solve a trouble with payment,payment_issue
+I want assistance cancelling order {{Order Number}},cancel_order
+"I have ordered some item, cancel purchase {{Order Number}}",cancel_order
+help me see the options for shipping,delivery_options
+I don't know how to talk with customer service,contact_customer_service
+wanna report issues with online pahment,payment_issue
+I am waiting for an refund of {{Currency Symbol}}{{Refund Amount}},track_refund
+help solving issues with online payments,payment_issue
+is it possible toorder from {{Delivery City}},delivery_options
+can I see in what cases can I ask for a reimbursement?,check_refund_policy
+can ya help me informing  of problems with online payment,payment_issue
+where can I report errors with payments?,payment_issue
+I can't afford order {{Order Number}},cancel_order
+help seeing the fucking cancellation charges,check_cancellation_fee
+I'm trying to find information about  modifying the address,change_shipping_address
+i have to notify of issues with payments,payment_issue
+I have a problem updating my delivery address,change_shipping_address
+shipnents to {{Delivery Country}},delivery_options
+can you tell me about correcting the address?,change_shipping_address
+I need assistance trying to change the delivery address,change_shipping_address
+"I cannot make a payment, I need help notifying of errors",payment_issue
+I am waiting for a damn rebate of {{Refund Amount}} dollars,track_refund
+assistance seeing the early termination charges,check_cancellation_fee
+I am calling to see what delivery methods are available,delivery_options
+I have got to see the cancellation charge,check_cancellation_fee
+customer support number,contact_customer_service
+where to see what hours I can contact customer support?,contact_customer_service
+I need to see what hours I can call customer service,contact_customer_service
+give me information about a delivery address modification,change_shipping_address
+refund status,track_refund
+"I have to check the withdrawal charge, how can I do it?",check_cancellation_fee
+I have troubles trying to change my address,change_shipping_address
+I'm waiting for a bloody compensation of {{Currency Symbol}}{{Refund Amount}},track_refund
+I have got to see what methods for delivery are there,delivery_options
+can you help me notifying of troubles with online payment?,payment_issue
+i need help to check in which cases can i ask for refunds,check_refund_policy
+I need help to cancel order {{Order Number}},cancel_order
+question about canceling purchase {{Order Number}},cancel_order
+help me checking at what time I can contact customer support,contact_customer_service
+"I bought some items, cancel order {{Order Number}}",cancel_order
+need assistance solving problems with payment,payment_issue
+will you show me what shipping methods are available?,delivery_options
+is it possible to report issues with online payment?,payment_issue
+can you tell me more about a delivery address change?,change_shipping_address
+I want help to change the delivery address,change_shipping_address
+is it possible to order from {{Delivery City}} ?,delivery_options
+I want help to inform of an issue with online payments,payment_issue
+i dont know how i can see the current status of the rebate,track_refund
+can you help me notify of a payment issue?,payment_issue
+"I can't pay, assistance reporting troubles with payment",payment_issue
+can I see at what time I can contact customer assistance?,contact_customer_service
+I want assistance to solve a trouble with online payment,payment_issue
+I need to notify of issues with online payment,payment_issue
+i have errors trying to modify the address,change_shipping_address
+show me how long refunds take,check_refund_policy
+"I can't afford order {{Order Number}}, could you cancel it?",cancel_order
+I have a trouble updating my shipping address,change_shipping_address
+i need assistance modifying the delivery address,change_shipping_address
+where can I report an issue with payments?,payment_issue
+assistance to report troubles with payments,payment_issue
+want assistance cancelling order {{Order Number}},cancel_order
+can i place an order from {{Delivery City}},delivery_options
+can ya help me check the early termination penalty,check_cancellation_fee
+i do not know what to do to cancel purchase {{Order Number}},cancel_order
+I need help to see what hours I can reach customer service,contact_customer_service
+I want assistance calling customer support,contact_customer_service
+can you help me to cancel order {{Order Number}} ?,cancel_order
+I want assistance to see what delivery methods I have,delivery_options
+how can i ese the cancellation penalties,check_cancellation_fee
+can I see what hours I can contact customer support?,contact_customer_service
+assistance to check in which cases can I ask for refunds,check_refund_policy
+can I see at what time I can reach customer support ?,contact_customer_service
+can I ordrr from {{Delivery City}}?,delivery_options
+could uhlep me to change my goddamn address,change_shipping_address
+I would like to modify my address,change_shipping_address
+can you help me to notify of a trouble with payment?,payment_issue
+I need assistance to correct the delivery address,change_shipping_address
+"I have got to talk with customer support, I need help",contact_customer_service
+i expect a restitution of {{Currency Symbol}}{{Refund Amount}} has it been prcoessed,track_refund
+I want help to see what shipment options are there,delivery_options
+where to check the withdrawal penalty?,check_cancellation_fee
+"I would like to contact customer support, could you help me?",contact_customer_service
+assistance to inform of issues with payments,payment_issue
+I need help with canceling purchase {{Order Number}},cancel_order
+can you help me speaking with customer service?,contact_customer_service
+can ya help me see the early termination fee,check_cancellation_fee
+I have a truble editing my shipping address,change_shipping_address
+I don't know how I could see the cancellation penalties,check_cancellation_fee
+support regarding online pamyent,payment_issue
+I try to see in what cases can I ask for a refund,check_refund_policy
+can you help me to cancel order {{Order Number}}?,cancel_order
+where can I see the cancellation charge?,check_cancellation_fee
+can you help me see the cancellation charges?,check_cancellation_fee
+i do not know what i need to do to check the termination fee,check_cancellation_fee
+I want help changing my address,change_shipping_address
+i try tosee under what circumstances can i ask for refunds,check_refund_policy
+assistance seeing what hours customer service available is,contact_customer_service
+"I need to see if there are any news on the refund, help me",track_refund
+"I want to see what shipment methods are there, I need help",delivery_options
+where could I inform of an issue with online payment?,payment_issue
+I am trying to inform of issues with payment,payment_issue
+I'm waiting for a refund of {{Refund Amount}} dollars,track_refund
+i dont know how to cncel purchase {{Order Number}},cancel_order
+can I track the reimbursement?,track_refund
+I don't know what to do to see the early termination charges,check_cancellation_fee
+I try to see in what cases can I ask to be refunded,check_refund_policy
+how to check at what time i can contact customer support,contact_customer_service
+assistance seeing in what situations can I request a refund,check_refund_policy
+where do I see the shipment methods?,delivery_options
+I am waiting for a refund of {{Refund Amount}} dollars,track_refund
+"I want to track my rebate, I need assistance",track_refund
+where can i get information about editing the address,change_shipping_address
+can you help me see the withdrawal fees?,check_cancellation_fee
+I am calling to check what methods for delivery are there,delivery_options
+can I see at what time I can call customer assistance?,contact_customer_service
+do you shp to {{Delivery City}}?,delivery_options
+help me contact customer assistance,contact_customer_service
+help  me canceling purchase {{Order Number}},cancel_order
+"I do not want my last bloody item, cancel order {{Order Number}}",cancel_order
+can you shlw me the termination charges?,check_cancellation_fee
+help me check in what cases can I request my money back,check_refund_policy
+help modifying the shipping address,change_shipping_address
+in which situations can I ask for refunds?,check_refund_policy
+can i see the early termination fees,check_cancellation_fee
+I have got to notify of goddamn issues with online payment,payment_issue
+I don't know how I can check the cancellation charge,check_cancellation_fee
+I am waiting for a reimbursement of {{Currency Symbol}}{{Refund Amount}},track_refund
+I need help seeing the options for shipment,delivery_options
+cn I place an order from {{Delivery City}}?,delivery_options
+where can i check ur reimbursement policy,check_refund_policy
+where can I check what hours I can call customer service?,contact_customer_service
+I need assistance to solve a problem with payment,payment_issue
+can you help me talking to customer service ?,contact_customer_service
+cancelling order {{Order Number}},cancel_order
+i need assistance to notify of troubles with payment,payment_issue
+I have got to check the withdrawal charge,check_cancellation_fee
+assistance to speak with bloody customer support,contact_customer_service
+"I can't pay, how do I inform of payment errors?",payment_issue
+where to see the status of my reimbursement?,track_refund
+show me at what time I can reach customer assistance,contact_customer_service
+what do I need to do to check your money back guarantee?,check_refund_policy
+I'm waiting for a restitution of {{Currency Symbol}}{{Refund Amount}},track_refund
+i need help checking in what cases can i ask for refunds,check_refund_policy
+assistance checking the cancellation charges,check_cancellation_fee
+question about canceling order {{Order Number}},cancel_order
+how could I cancel purchase {{Order Number}}?,cancel_order
+I cannot check your reimbursement policy,check_refund_policy
+there are troubles modifying my shipping address,change_shipping_address
+can ay help me notifying of a trouble with payment,payment_issue
+assistance to check what methods for delivery I have,delivery_options
+I want assistance canceling order {{Order Number}},cancel_order
+I expect a reimbursement of {{Refund Amount}} dollars,track_refund
+is it possible to order from {{Delivery City}}?,delivery_options
+i need assistance to cancel order {{Order Number}},cancel_order
+where do i see what hours i can contact customer support,contact_customer_service
+"I would like to talk with customer support, how do I do it?",contact_customer_service
+where do I see the termination penalties?,check_cancellation_fee
+can you tell me more about updating my delivery address?,change_shipping_address
+cance order {{Order Number}},cancel_order
+I have a problem with a delivery address update,change_shipping_address
+I have to see at what time I can reach customer service,contact_customer_service
+"I cannot make a payment, how could I report bloody problems?",payment_issue
+I need assistance to cancel purchase {{Order Number}},cancel_order
+i expect a refund of {{Currency Symbol}}{{Refund Amount}},track_refund
+"I haave to check the termination charge, I need help",check_cancellation_fee
+I'm trying to notify of problems with payments,payment_issue
+do ya deoiver to {{Delivery City}},delivery_options
+can uhelp me canceling purchase {{Order Number}},cancel_order
+need help seeing in what cases can i ask ofr reimbursements,check_refund_policy
+"I cannot afford this order, cancel purchase {{Order Number}}",cancel_order
+where to correct my shipping address?,change_shipping_address
+do you deliver to {{Delivery City}} ?,delivery_options
+I nerd to report a trouble with online payment,payment_issue
+"I have to check the status of my rebate, I need help",track_refund
+can you help me checking the early exit fees?,check_cancellation_fee
+i have to check in which cases can i request refunds,check_refund_policy
+assistance to check ur money back guarantee,check_refund_policy
+in what cases can I request reimbursements?,check_refund_policy
+question about cancelling order {{Order Number}},cancel_order
+in what situations can I ask to be reimbursed?,check_refund_policy
+assistance checkingthe termination fees,check_cancellation_fee
+I need assistance to inform of a problem with payments,payment_issue
+I have a trouble changing the delivery address,change_shipping_address
+want help cancelling purchase {{Order Number}},cancel_order
+is it possible to place a order from {{Delivery Country}}?,delivery_options
+how to update the address,change_shipping_address
+I do not know how to track the restitution,track_refund
+I am trying to inform of a trouble with online payment,payment_issue
+how doI see the early termination penalty?,check_cancellation_fee
+help to check at what time I can call customer support,contact_customer_service
+I need assistance to check your reimbursement policy,check_refund_policy
+I want support trying to change my delivery address,change_shipping_address
+wanna see the early exit penalty how can i do it,check_cancellation_fee
+i do not know how to see what delivery methods i have,delivery_options
+i have to report payment problems,payment_issue
+cancel purchase00123842,cancel_order
+help me see in what situations can i request to be refunded,check_refund_policy
+i need assistance to inform of problems with online payment,payment_issue
+can I see if there is anything new on the reimbursement?,track_refund
+how to notify of issues with payment?,payment_issue
+I have problems editing the address,change_shipping_address
+want help checking in wht situations can i request refunds,check_refund_policy
+I need assistance canceling purchase {{Order Number}},cancel_order
+can you help me reporting troubles with payments?,payment_issue
+I have got to check in what cases can I request a refund,check_refund_policy
+i dont know  how i can see the cancellation penalty,check_cancellation_fee
+I need to see at what time customer service available is,contact_customer_service
+I have to check in what cases can I ask for refunds,check_refund_policy
+could ya help mw check ur reimbursement policy,check_refund_policy
+I try to see the fucking restitution current status,track_refund
+I'm waiting for an refund of {{Currency Symbol}}{{Refund Amount}},track_refund
+"I want to see your money back guarantee, how can I do it?",check_refund_policy
+tell me about correcting my shipping address,change_shipping_address
+"I want to check your reimbursement policy, help me",check_refund_policy
+I try to check in which situations can I ask for a refund,check_refund_policy
+what do i need to do to report prbolems with payment,payment_issue
+i have got to call customer service i need help,contact_customer_service
+wanna know more about editing my shipping address,change_shipping_address
+i want help to check wht hours i can reach customer service,contact_customer_service
+how can I find information about a shipping address update?,change_shipping_address
+I want assistance reporting a prbolem with payment,payment_issue
+could I know if there is anything new on my compensation?,track_refund
+i want assistance trying to change ym shipping address,change_shipping_address
+could you tell me about the options for shipping?,delivery_options
+I am waiting for a refnd of {{Refund Amount}} dollars,track_refund
+could I check the termination fee?,check_cancellation_fee
+"I have chosen a wrong shipping address, how do I correct it?",change_shipping_address
+help me see in what situations can i request a reimbursement,check_refund_policy
+i dont know what i need to do to inform of payment errors,payment_issue
+I do not know how to check the withdrawal fees,check_cancellation_fee
+report issue with payment,payment_issue
+"my goddamn delivery address changed, how do I correct it?",change_shipping_address
+"I have to see the damn compensation status, can you help me?",track_refund
+how can I report troubles with online payments?,payment_issue
+i expect a reimbursement of {{Currency Symbol}}{{Refund Amount}},track_refund
+errors updating shipping address,change_shipping_address
+I want help trying to correct the address,change_shipping_address
+how can I see your reimbursement policy?,check_refund_policy
+can I place an ordewr from {{Delivery Country}}?,delivery_options
+what is the fee for breaking the contract,check_cancellation_fee
+is it possible to see the cancellation charges?,check_cancellation_fee
+I need help seeing what methods for delivery I have,delivery_options
+can you tell me about a delivery address update?,change_shipping_address
+I want help to cancel order {{Order Number}},cancel_order
+I am waiting for a restitution of {{Refund Amount}} dollars,track_refund
+assistance to see the goddamn termination penalty,check_cancellation_fee
+help canceling purchase {{Order Number}},cancel_order
+is it possible to order from {{Delivery City}},delivery_options
+"I wold like to talk to customer service, could you help me?",contact_customer_service
+help me checking what shipment methods I have,delivery_options
+is it possible to place an order from {{Delivery Country}},delivery_options
+need help reporting errors with online payments,payment_issue
+is it possible to order from {{Delivery City}},delivery_options
+where do I see what methods for delivery are available?,delivery_options
+i dont know what i have to do to report issues with payments,payment_issue
+where can i edit the shipping address,change_shipping_address
+I have got to report issues with online payment,payment_issue
+how can I see what goddamn delivery methods you offer?,delivery_options
+see in what cases can I ask for a refund,check_refund_policy
+I want to know more about updating my address,change_shipping_address
+i do not know how i can check the options for shipment,delivery_options
+I can't pay for purchase {{Order Number}},cancel_order
+I try to see if there are any news on my reimbursement,track_refund
+shipmetns to {{Delivery City}},delivery_options
+I want to inform of troubles with payments,payment_issue
+tell me about a shipping address correction,change_shipping_address
+i have got to check the early exit pnalty,check_cancellation_fee
+could i get in touchwith customer service,contact_customer_service
+how can I modify my address?,change_shipping_address
+wanna ceck what hours i can contact customer assistance,contact_customer_service
+their is a problem trying to update my delivery address,change_shipping_address
+what do I need to do to update the shipping address?,change_shipping_address
+help me to check the termination charges,check_cancellation_fee
+help me to see in which cases can I ask for a refund,check_refund_policy
+is it possible to place an order from {{Delivery Country}}?,delivery_options
+is it possible to see the withdrawal charges?,check_cancellation_fee
+assistance to change the address,change_shipping_address
+I don't know how I can see my compensation status,track_refund
+need to see in what situations can i ask to be refunded,check_refund_policy
+I need to check the current status of the reimbursement,track_refund
+I want help to cancle purchase {{Order Number}},cancel_order
+i have to report issues with onlpine payment,payment_issue
+I want assistance seeing the withdrawal penalty,check_cancellation_fee
+I need help to see the current status of the refund,track_refund
+want assistance to solve a payment problem,payment_issue
+I expect a refund of {{Refund Amount}} dollars,track_refund
+I want to see at what time I can call customer assistance,contact_customer_service
+"I have got to speak with customer support, can you help me?",contact_customer_service
+I don't know how to check the early exit charge,check_cancellation_fee
+can you help me seeing the early termination charges?,check_cancellation_fee
+i expect a compensation of {{Currency Symbol}}{{Refund Amount}},track_refund
+question about cancelling purchase {{Order Number}},cancel_order
+I want help cancellkng purchase {{Order Number}},cancel_order
+I have errors trying to pudate my shipping address,change_shipping_address
+can you show me the compensation status?,track_refund
+i try to notify of troubles with online payment,payment_issue
+how can I check the early termination penalties?,check_cancellation_fee
+I am calling to check what delivery methods are available,delivery_options
+what do i have to do to report errors with payments,payment_issue
+I expect a reimbursement of {{Refund Amount}} dollars,track_refund
+od ya deliver to {{Delivery Country}},delivery_options
+how can i inform of problems with payments,payment_issue
+need to check in what cases can i ask for a reimbursement,check_refund_policy
+could you show me inwhat cases can I ask for refunds?,check_refund_policy
+solve payment error,payment_issue
+help me to check in what cases can i request refunds,check_refund_policy
+can i order from {{Delivery City}},delivery_options
+"I need to check how long reimbursements take, help me",check_refund_policy
+talk with customer service,contact_customer_service
+have a question about cancelling order {{Order Number}},cancel_order
+I need help checking if there are any updates on my refund,track_refund
+"I have to check the status of my compensation, I need help",track_refund
+wanna see the delivery options help me,delivery_options
+is it possible to order from {{Delivery Country}},delivery_options
+i dont know how i can see the early exit charegs,check_cancellation_fee
+can you help me to see the withdrawal fee?,check_cancellation_fee
+what is the early termination fee?,check_cancellation_fee
+i need supports trying to modify my address,change_shipping_address
+how to see your goddamn reimbursement policy?,check_refund_policy
+I cannot see the status of my restitution,track_refund
+help me to see at what time I can reach customer assistance,contact_customer_service
+I'm waiting for a ocmpensation of {{Refund Amount}} dollars,track_refund
+"I want to check the methods for delivery, help me",delivery_options
+i dont know how i can notify of issues with online payments,payment_issue
+i need assistance seeing the early exit charge,check_cancellation_fee
+"I have got to contact customer assistance, I need help",contact_customer_service
+I want to report a problem with online payments,payment_issue
+their is a problem trying to correct my delivery address,change_shipping_address
+can i order from {{Delivery Country}},delivery_options
+I'm waiting for a refund of {{Refund Amount}} dollars,track_refund
+I have to see your refund policy,check_refund_policy
+what do I have to do to see my compensation current status?,track_refund
+see at what time i can call customer support,contact_customer_service
+cancel purchase {{Order Number}},cancel_order
+"my address has changed, how could I change it?",change_shipping_address
+assistance seeing in which cases can I ask for a refund,check_refund_policy
+i need assistance to check ur refund policy,check_refund_policy
+i want help to see the early termination charges,check_cancellation_fee
+problem with cancelling order {{Order Number}},cancel_order
+I am trying to check what hours I can reach customer support,contact_customer_service
+canceling order {{Order Number}},cancel_order
+how do I cancel purchae {{Order Number}}?,cancel_order
+I'm trying to see in what cases can i ask for my money back,check_refund_policy
+i have to check in what cases can i ask for reimbursements,check_refund_policy
+I try to check what shipping methods I can choose,delivery_options
+I try to see in what situations can I ask for reimbursements,check_refund_policy
+what do I need to do to see the early exit penalty?,check_cancellation_fee
+where do i report problems with online payment,payment_issue
+need help to see in which cases can I request my money bac,check_refund_policy
+can i order frrom {{Delivery Country}},delivery_options
+help trying to edit the deliveyr address,change_shipping_address
+help solving a payment problem,payment_issue
+i want help to see the early termination charge,check_cancellation_fee
+i want assistance solving issues with online payments,payment_issue
+"I would like to see what shipment methods I have, help me",delivery_options
+I have to know if there is anything wrong with the rebate,track_refund
+I need help to cancel purchase {{Order Number}},cancel_order
+need help with canceling order {{Order Number}},cancel_order
+what do I have to do to cancel purchase {{Order Number}}?,cancel_order
+help  with a delivery address correction,change_shipping_address
+I want help checking the methods for shipping,delivery_options
+how do I check what hours I can call customer assistance ?,contact_customer_service
+help me to check the current status of the compensation,track_refund
+help checkig in what situations can i ask for a refund,check_refund_policy
+ur refund policy,check_refund_policy
+want help to know if there is anything wrong with the refund,track_refund
+I have to report payment problems,payment_issue
+"I have got to see my refund status, can you help me?",track_refund
+could I check if there is anything new on the compensation?,track_refund
+I am trying to see in what cases can I request refunds,check_refund_policy
+can ya help me checking the cancellation charges,check_cancellation_fee
+wanna change my fucking address,change_shipping_address
+I don't know what to do to inform of problems with payment,payment_issue
+I cannot see if there are any news on my restitution,track_refund
+show your refund policy,check_refund_policy
+need help seeing the early exig fee,check_cancellation_fee
+can i see under what circumstances can i ask for a refund,check_refund_policy
+want help solving issues with online payment,payment_issue
+i need help seeing what hours customer support available is,contact_customer_service
+I expect an reimbursement of {{Currency Symbol}}{{Refund Amount}},track_refund
+want help seeing in what cases can i request my money back,check_refund_policy
+can you help me cancel purchase {{Order Number}}?,cancel_order
+"I cannot pay for the last purchase I have made, cancel it",cancel_order
+see under which circumstances can I request my money back,check_refund_policy
+i have to see in what situations can i ask for refunds,check_refund_policy
+I try to check what hours I can contact customer service,contact_customer_service
+I have an error trying to edit the delivery address,change_shipping_address
+I have got to update my delivery address,change_shipping_address
+help me to correct my address,change_shipping_address
+I need help with cancellng order {{Order Number}},cancel_order
+"I cannot pay, assistance reporting a trouble with payments",payment_issue
+can you help me to correct the delivery address?,change_shipping_address
+could you tell me more about changing the delivery address?,change_shipping_address
+where can I modify my delivery address?,change_shipping_address
+assistance seeing what shipping methods are there,delivery_options
+"I want to see the cancellation charges, help me",check_cancellation_fee
+"I can no longer afford purchase {{Order Number}}, cancel it",cancel_order
+want help knowing if there are any updates on my refund,track_refund
+i want help to cancel purchase {{Order Number}},cancel_order
+i cannot pay for these product how do i cancel the order,cancel_order
+what do i need ti do to check ur refund policy,check_refund_policy
+how could I inform of errors with payment?,payment_issue
+i have got to call bloody customer assistance could uhelp me,contact_customer_service
+I am trying to check the status of the restitution,track_refund
+do you ship to {{Delivery Country}}?,delivery_options
+I expect a reufnd of {{Currency Symbol}}{{Refund Amount}},track_refund
+help seeing the delivery options,delivery_options
+I have a problem with cancelling order {{Order Number}},cancel_order
+I don't know how to see the bloody withdrawal penalty,check_cancellation_fee
+tell me what hours customer support available is,contact_customer_service
+I want helpchecking what hours I can call customer service,contact_customer_service
+"I have entered a wrong delivery address, help me changing it",change_shipping_address
+i have to see in which cases can i ask for erimbursements,check_refund_policy
+i need help with cancelling order {{Order Number}},cancel_order
+is it possible to order from {{Delivery City}} ?,delivery_options
+i have issues modifying my delivery address,change_shipping_address
+I do not know how to report errors with payments,payment_issue
+is it possible to order from {{Delivery City}}?,delivery_options
+chek in which cases can I request reimbursements,check_refund_policy
+help to see in which cases can I request a reimbursement,check_refund_policy
+are the service charges refundable?,check_refund_policy
+I have to check the termination penalties,check_cancellation_fee
+i dont know how i can cancel purchase {{Order Number}},cancel_order
+is it possible to cancel order {{Order Number}}?,cancel_order
+help to check what hours i can contact customer assistance,contact_customer_service
+I expect a refund of {{Currency Symbol}}{{Refund Amount}},track_refund
+I have got to see in which situations can Irequest a refund,check_refund_policy
+wanna check how long refunds usuall take can ya help me,check_refund_policy
+supports editing the delivery address,change_shipping_address
+checking the options for shipping,delivery_options
+can you show me what shipping options I have?,delivery_options
+i do not know how i can ese the termination charges,check_cancellation_fee
+help checking the early exit charges,check_cancellation_fee
+is it possible to check the status of the rebate?,track_refund
+i want assistance seeing the withdrawal penalties,check_cancellation_fee
+want assistance to update the address,change_shipping_address
+I'm waiting for a ocmpensation of {{Refund Amount}} dollars,track_refund
+is it possible to place an order from {{Delivery City}},delivery_options
+show me in which situations can I request to be refunded,check_refund_policy
+do ya deliver to {{Delivery Country}},delivery_options
+awnna see in what cases can i request reimbursements,check_refund_policy
+I am waiting for an rebate of {{Currency Symbol}}{{Refund Amount}},track_refund
+where to see the cancellation fee,check_cancellation_fee
+how to see the options for shipping?,delivery_options
+cancel purchase113542617735902,cancel_order
+seeing the available options for shipping,delivery_options
+I am calling to see the shipment options,delivery_options
+I want to see in which cases can I request to be refunded,check_refund_policy
+could you help me to report an error with online payment?,payment_issue
+need help notifying of an error with online payment,payment_issue
+i exepct a restitution of {{Currency Symbol}}{{Refund Amount}},track_refund
+I'm trying to cancel order {{Order Number}},cancel_order
+can i order frrom {{Delivery Country}},delivery_options
+Iexpect a restitution of {{Refund Amount}} dollars,track_refund
+can you help me seeing the cancellation charges?,check_cancellation_fee
+"I have got to see what shipping methods are there, help me",delivery_options
+where do I check the reimbursement current status?,track_refund
+I need to see the current status of my refund,track_refund
+I need support changing the delivery address,change_shipping_address
+I have errors trying to modify my delivery address,change_shipping_address
+I am calling to check what bloody shipping methods I have,delivery_options
+I am trying to check my rebate status,track_refund
+help me to check the early exit charges,check_cancellation_fee
+can you help me to check the methods for shipping?,delivery_options
+want help to see in which cases can I request reimbursements,check_refund_policy
+can you help me calling customer service?,contact_customer_service
+want help to report an issue with online payments,payment_issue
+I try to check my restitution status,track_refund
+I am trying to check in which cases can I request a refund,check_refund_policy
+can you help me cancel purchase {{Order Number}}?,cancel_order
+I want assistance to solve a problem with payment,payment_issue
+how do I see what hours I can contact customer assistance?,contact_customer_service
+can I check in what cases can I request the damn refunds?,check_refund_policy
+i expecdt a refund of {{Refund Amount}} dollars,track_refund
+help me to check what shipping methods you offer,delivery_options
+I expect a goddamn restitution of {{Currency Symbol}}{{Refund Amount}},track_refund
+how do I check if there are any updates on my rebate?,track_refund
+I don't know how I can cancel purchase {{Order Number}},cancel_order
+I am waiting for a refund of {{Refund Amount}} dollars,track_refund
+I can't correct the shipping address,change_shipping_address
+I do not know how I can cancel order {{Order Number}},cancel_order
+give me information about changing my address,change_shipping_address
+are there cancellation penalties,check_cancellation_fee
+can you help me cancelling the bloody purchase I made?,cancel_order
+"I need to speak with fucking customer assistance, help me",contact_customer_service
+help checking what hours I can call customer assistance,contact_customer_service
+can uhelp me cancelling purchase {{Order Number}},cancel_order
+i need information about the shipment options,delivery_options
+I'm waiting for a compensation of {{Currency Symbol}}{{Refund Amount}},track_refund
+where can I check what hours I can contact customer support?,contact_customer_service
+I try to see what hours customer service aailable is,contact_customer_service
+do ya deliver to {{Delivery City}},delivery_options
+is it possible to place na order from {{Delivery Country}},delivery_options
+where could I see what hours I can reach customer service?,contact_customer_service
+I need assistance to cancel order {{Order Number}},cancel_order
+need help to notify of an error with online paymemts,payment_issue
+i do not know how i could casncel order {{Order Number}},cancel_order
+"I can no longer afford order {{Order Number}}, can I cancel it?",cancel_order
+i cannot pay for puchase {{Order Number}} how could i cancel it,cancel_order
+I try to check at what time I can call customer service,contact_customer_service
+help to see in what cases can I ask for my money back,check_refund_policy
+I need to see the early exit penalties,check_cancellation_fee
+I do not know how to inform of troubles with payments,payment_issue
+i expecdt a refund of {{Refund Amount}} dollars,track_refund
+"I can't ifnd the bloody termination charge, I need help",check_cancellation_fee
+can youhelp me reporting troubles with online payments?,payment_issue
+I exxpect a rebate of {{Currency Symbol}}{{Refund Amount}},track_refund
+want help to check the early termination fees,check_cancellation_fee
+see in which cases can I request to be refunded,check_refund_policy
+want assistance to check the cancellation charge,check_cancellation_fee
+need to modify my delivery addrexs how do i do it,change_shipping_address
+i have to check at what time i can rach customer support,contact_customer_service
+need help to cancel purchase {{Order Number}},cancel_order
+"I am waiting for a rebate of {{Currency Symbol}}{{Refund Amount}}, was it processed",track_refund
+where to check what hours i can contact customer assistance,contact_customer_service
+"I am waiting for a refund of {{Currency Symbol}}{{Refund Amount}}, has it been processed?",track_refund
+"I want to track the reimbursement, can you help me?",track_refund
+i want information about modifying my shipping address,change_shipping_address
+I need to see if there is anything new on the compensation,track_refund
+wanna check in wshat situations can i ask for a refund,check_refund_policy
+"I need to check the termination charge, can you help me?",check_cancellation_fee
+speak to customer support,contact_customer_service
+i have an issue trying to update my shipping address,change_shipping_address
+I do not know what to do to ese the cancellation penalties,check_cancellation_fee
+i dont know how to cancel order {{Order Number}},cancel_order
+how to see the early exit fees?,check_cancellation_fee
+i dont know how i can see ur reimbursement policy,check_refund_policy
+is it possible to place an order from {{Delivery City}},delivery_options
+i need help to check what hours i can call customer support,contact_customer_service
+I don't know how I can check the rebate status,track_refund
+could ya help me checking the current status of my refund,track_refund
+show me what shipment methods I have,delivery_options
+I try to talk to damn customer support,contact_customer_service
+where do i check what hours i can call customer service,contact_customer_service
+help getting in touch with customer support,contact_customer_service
+help seeing in which situations can I request my money back,check_refund_policy
+how to report  troubles with payments,payment_issue
+I am trying to see in which cases can I ask for refunds,check_refund_policy
+assistance to talk with bloody customer supprt,contact_customer_service
+I am waiting for a compensation of {{Refund Amount}} doolars,track_refund
+seeing cancellation fees,check_cancellation_fee
+help me see in what situations can i request my money back,check_refund_policy
+can uhelp me cancelliung order {{Order Number}},cancel_order
+where can I see the early termination charge?,check_cancellation_fee
+error modifying address,change_shipping_address
+want assistance solving problems with payment,payment_issue
+I dp not know how to cancel order {{Order Number}},cancel_order
+deliveries to {{Delivery Country}},delivery_options
+where to see the withdrawal fee?,check_cancellation_fee
+help seeing ur money back guarantee,check_refund_policy
+do you ship to {{Delivery City}}?,delivery_options
